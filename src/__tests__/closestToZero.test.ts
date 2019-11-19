@@ -8,7 +8,7 @@ test("spec-two", () => {
   expect(closestToZero([5, 4, -9, 6, -10, -1, 8])).toBe(-1);
 });
 
-test("spec-two", () => {
+test("spec-three", () => {
   expect(closestToZero([8, 2, 3, -2])).toBe(2);
 });
 
