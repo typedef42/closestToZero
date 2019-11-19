@@ -1,0 +1,32 @@
+{
+  "name": "closesttozero",
+  "version": "1.0.0",
+  "description": "gojob test",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "start": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typedef42/closestToZero.git"
+  },
+  "keywords": [
+    "closestToZero"
+  ],
+  "author": "Yannis Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/typedef42/closestToZero/issues"
+  },
+  "homepage": "https://github.com/typedef42/closestToZero#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.9"
+  }
+}
